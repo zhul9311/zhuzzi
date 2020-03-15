@@ -1,7 +1,4 @@
 ---
-published: true
----
----
 layout:	post
 title:	"Welcome to my blog!"
 ---
